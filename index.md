@@ -1,4 +1,3 @@
 ---
-title: Welcome to my blog
+My page: Welcome to Jake's page.
 ---
-
